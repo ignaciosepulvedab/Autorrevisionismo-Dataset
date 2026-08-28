@@ -12,14 +12,14 @@ fuentes institucionales.
 
 | **Dimensión** | **Cód.** | **Indic.** | **Variables** | **Avance** |
 |----|:--:|:--:|:--:|:--:|
-| Dimensión económico-comercial | EC | 4 | 21 | 20/21 |
-| Dimensión institucional y de cooperación | CI | 4 | 14 | 12/14 |
-| Dimensión de seguridad y defensa | SD | 4 | 18 | 12/18 |
-| Dimensión democrática doméstica | AD | 4 | 13 | 10/13 |
-| Dimensión ideológica | CId | 4 | 14 | 11/14 |
+| Economía y comercio | EC | 4 | 21 | 20/21 |
+| Cooperación internacional | CI | 4 | 14 | 12/14 |
+| Seguridad y defensa | SD | 4 | 18 | 12/18 |
+| Adhesión doméstica | AD | 4 | 13 | 10/13 |
+| Compromiso ideológico | CId | 4 | 14 | 11/14 |
 | **Total** | **—** | **20** | **80** | **65/80** |
 
-# **EC · Dimensión económico-comercial**
+# **EC · Economía y comercio**
 
 <table>
 <colgroup>
@@ -173,7 +173,7 @@ de disputas comerciales</strong></td>
 </tbody>
 </table>
 
-# **CI · Dimensión institucional y de cooperación**
+# **CI · Cooperación internacional**
 
 <table>
 <colgroup>
@@ -290,7 +290,7 @@ Internacional (usaid_budget)</td>
 </tbody>
 </table>
 
-# **SD · Dimensión de seguridad y defensa**
+# **SD · Seguridad y defensa**
 
 <table>
 <colgroup>
@@ -429,7 +429,7 @@ internacional</strong> <em>· en revisión</em></td>
 </tbody>
 </table>
 
-# **AD · Dimensión democrática doméstica**
+# **AD · Adhesión doméstica**
 
 <table>
 <colgroup>
@@ -531,7 +531,7 @@ Estado (hr_reccomendations_acceptance)</td>
 </tbody>
 </table>
 
-# **CId · Dimensión ideológica**
+# **CId · Compromiso ideológico**
 
 <table>
 <colgroup>
@@ -686,7 +686,7 @@ liberal</strong></td>
 | Por definir | — |
 
 *Nota. Las variables señaladas como discursivas provienen del análisis
-computacional del corpus del American Presidency Project (820 743
-fragmentos únicos, 1993–2025), clasificado mediante inferencia de
-lenguaje natural en polos revisionista y legitimista. Los indicadores
-marcados «en revisión» requieren definición operativa adicional.*
+computacional del corpus del American Presidency Project (117,136 documentos 
+divididos en 820 743 fragmentos únicos, comprendiendo el periodo 1993–2025), 
+clasificado mediante inferencia de lenguaje natural el grado de conducta revisionista. 
+Los indicadores marcados «en revisión» requieren definición operativa adicional.*
